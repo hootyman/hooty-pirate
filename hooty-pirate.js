@@ -8,7 +8,7 @@ var interval = 2;
 var config = {
   channels: ["#thepiratebay.org"],
   server: "irc.freenode.net",
-  botName: "hootybot"
+  botName: "thepiratebot"
 };
 var optionator = require('optionator')({
   prepend: 'Usage: cmd [options]',
